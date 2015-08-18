@@ -1,0 +1,7 @@
+add-auto-load-safe-path /home/alberto/repositorios/linphone/.gdbinit 
+add-auto-load-safe-path /home/alberto/repositorios/linphone/gtk/.gdbinit
+add-auto-load-safe-path /home/alberto/repositorios/box/EnimediaSDKx86/bin/.gdbinit
+add-auto-load-safe-path /home/alberto/repositorios/vaapi/linphone/.gdbinit
+add-auto-load-safe-path /home/alberto/repositorios/vaapi/tutorial02
+add-auto-load-safe-path /home/alberto/repositorios/vaapi/libyami/.gdbinit
+add-auto-load-safe-path /home/alberto/repositorios/vaapi/player
