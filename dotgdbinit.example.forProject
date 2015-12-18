@@ -1,0 +1,4 @@
+set breakpoint pending on
+file /usr/local/bin/linphone
+#set args --verbose
+source breakpoints

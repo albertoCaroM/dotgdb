@@ -10,7 +10,7 @@ Para añadir un fichero .gdbinit con intrucciones personalizadas para un proyect
 
 Ejemplo: "add-auto-load-safe-path /home/alberto/repositorios/linphone/.gdbinit"
 
-####ejemplo de fichero .gdbinit 
+####ejemplo de fichero .gdbinit en proyecto , tambien se puede usar ./dotgdbinit.example.forProject renonmbrado a .gdbinit en la carpeta del proyecto 
 
 ```gdb
 file  ./gtk/.libs/linphone

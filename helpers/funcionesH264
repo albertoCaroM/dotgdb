@@ -1,4 +1,3 @@
-
 define findNalu
     if $argc != 2
         help findNalu
@@ -40,6 +39,11 @@ document showheader
 Imprime los primeros 4 caracteres de una direccion
 Usage: showheader src
 end
+
+
+
+
+
 
 define naltype
   if $argc !=1

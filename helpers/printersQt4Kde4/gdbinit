@@ -1,0 +1,15 @@
+python
+import sys,os
+
+printersPath = os.path.join(os.environ['HOME'],
+                       '.gdb/printers')
+sys.path.insert(0, printersPath)
+from qt4 import register_qt4_printers
+register_qt4_printers (None)
+
+from kde4 import register_kde4_printers
+register_kde4_printers (None)
+
+end
+
+set print pretty 1
