@@ -2,4 +2,5 @@ add-auto-load-safe-path /home/alberto/repositorios/linphone/.gdbinit
 add-auto-load-safe-path /home/alberto/repositorios/vaapi/version_linphon_con_vaapi_22_agosto/Pablo/linphone/.gdbinit
 add-auto-load-safe-path /home/alberto/repositorios/elinboxed/.gdbinit
 add-auto-load-safe-path /home/alberto/repositorios/elinboxed/submodules/.gdbinit
+add-auto-load-safe-path /home/alberto/aaa/.gdbinit
 
